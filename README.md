@@ -19,5 +19,5 @@ If you want to contribute, fork the newest version of the main branch. Then crea
 ## 3. Goals
 - [ ] Get 100 packs listed
 - [ ] Get recognised
-- [ ] Get 'mcpacks.is-a.dev'
+- [ ] Get https://mcpacks.is-a.dev
 - [ ] Reach 1k downloads
