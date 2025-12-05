@@ -6,6 +6,8 @@ To add a pack, open an issue listing:
     2. Description
     3. Version
 	4. Download Link
+> [!NOTE] 
+> Illegal or 18+ resource packs won't be accepted.
 
 If you don't have a download link, upload the file in the issue or over mediafire.
 
