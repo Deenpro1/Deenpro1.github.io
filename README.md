@@ -1,5 +1,6 @@
 # McPacks by deenpro1
-This is an open resource pack database, made ny me. Of you want your pack added or found a bug, open an issue.
+This is an open resource pack database, made by me. Of you want your pack added or found a bug, open an issue.
+
 ## 1. Adding a pack:
 To add a pack, open an issue listing:
     1. Name
