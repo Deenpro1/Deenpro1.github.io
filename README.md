@@ -14,7 +14,7 @@ If you want to contribute, fork the newest version of the main branch. Then crea
 > If it's not a minor change, I won't list you on the site.
 
 ## 3. Goals
-[ ] Get 100 packs listed
-[ ] Get recognised
-[ ] Get 'mcpacks.is-a.dev'
-[ ] Reach 1k downloads
+- [ ] Get 100 packs listed
+- [ ] Get recognised
+- [ ] Get 'mcpacks.is-a.dev'
+- [ ] Reach 1k downloads
