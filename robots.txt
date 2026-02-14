@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deenpro1.is-a.dev/sitemap.xml
