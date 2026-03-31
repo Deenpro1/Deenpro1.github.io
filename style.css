@@ -316,3 +316,164 @@ footer {
         gap: 1rem;
     }
 }
+
+.resourcepacks-hero {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 6rem 2rem;
+    text-align: center;
+    color: #00ff00;
+    background: #000000;
+}
+
+.resourcepacks-hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.resourcepacks-hero p {
+    font-size: 1.2rem;
+    opacity: 0.95;
+}
+
+.pack-list {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.pack-card {
+    background: #111111;
+    border-left: 4px solid #00ff00;
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+}
+
+.pack-card h3 {
+    color: #00ff00;
+    margin-bottom: 0.5rem;
+}
+
+.pack-card p {
+    color: #00ff00;
+    margin-bottom: 1rem;
+    line-height: 1.7;
+}
+
+.pack-card summary {
+    cursor: pointer;
+    list-style: none;
+    font-weight: bold;
+    color: #00ff00;
+    font-size: 1.1rem;
+    margin-bottom: 0.75rem;
+    outline: none;
+}
+
+.pack-card details {
+    color: #00ff00;
+}
+
+.pack-items {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.pack-items li {
+    margin-bottom: 0.6rem;
+}
+
+.texture-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.texture-card {
+    background: #000000;
+    border: 1px solid #00ff00;
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+.texture-card h4 {
+    color: #00ff00;
+    margin: 0 0 0.5rem;
+    font-size: 1rem;
+}
+
+.texture-card p {
+    color: #00ff00;
+    opacity: 0.85;
+    margin: 0;
+    line-height: 1.5;
+}
+
+.resource-link {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.8rem 1.5rem;
+    border: 2px solid #00ff00;
+    color: #00ff00;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: all 0.3s;
+}
+
+.resource-link:hover {
+    background: #00ff00;
+    color: #000000;
+}
+
+.texture-gallery {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.texture-gallery h2 {
+    color: #00ff00;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.texture-gallery p {
+    color: #00ff00;
+    opacity: 0.85;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+}
+
+.gallery-item {
+    background: #111111;
+    border: 1px solid #00ff00;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+}
+
+.gallery-item img {
+    width: 100%;
+    max-width: 128px;
+    height: auto;
+    image-rendering: pixelated;
+    border: 1px solid #00ff00;
+    border-radius: 5px;
+    margin-bottom: 0.75rem;
+}
+
+.gallery-item p {
+    color: #00ff00;
+    margin: 0;
+    line-height: 1.4;
+}
